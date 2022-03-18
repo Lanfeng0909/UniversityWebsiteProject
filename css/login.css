@@ -1,0 +1,48 @@
+.log-in-usr{
+    margin-top: 20px;
+    }
+    
+/* navigation bar color */
+nav.navbar-expand-lg{
+    background:#020303;
+}
+/* add uni logo */
+img#logo{
+    width:60px;height:30px
+}
+/* navigation bar title color */
+a.nav-font-white{
+    color:rgb(255, 254, 254)
+}
+/* login/logout button */
+a#login{
+    display: none
+}
+button#logout{
+    display: none
+}
+
+/* block homepage */
+div#welcome{
+    display: block
+}
+
+/* label font */
+label#label-font{
+    margin-top: 20px
+}
+
+/* form font */
+form#form-font{
+    margin-top: 20px
+}
+
+/* button font */
+button.btn{
+    margin-top: 20px
+}
+
+/* registration page link font */
+a.nav-link{
+    margin-left: 20px; margin-top: 20px
+}

@@ -1,0 +1,44 @@
+/* navigation bar color */
+nav.navbar-expand-lg{
+    background:#020303;
+}
+/* add uni logo */
+img#logo{
+    width:60px;height:30px
+}
+/* navigation bar title color */
+a.nav-font-white{
+    color:rgb(255, 254, 254)
+}
+/* login/logout button */
+a#login{
+    display: none
+}
+button#logout{
+    display: none
+}
+
+/* allocate & enroll button setting*/
+a.btn{
+    margin-bottom: 12px 
+}
+
+p#unit-name{
+    color: rgb(100, 149, 237); font-size: 30px
+}
+
+div#error{
+    color: red
+}
+
+/* remove button setting */
+a#removebtn{
+    color: rgb(100, 149, 237)
+}
+
+/* unit courses button setting */
+a.button{
+    float: right;
+    margin-bottom: 24px;
+    margin-right:40px
+  }

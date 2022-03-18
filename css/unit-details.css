@@ -1,0 +1,49 @@
+/* navigation bar color */
+nav.navbar-expand-lg{
+  background:#020303;
+}
+/* add uni logo */
+img#logo{
+  width:60px;height:30px
+}
+/* navigation bar title color */
+a.nav-font-white{
+  color:rgb(255, 254, 254)
+}
+/* login/logout button */
+a#login{
+  display: none
+}
+button#logout{
+  display: none
+}
+
+/* courses unit style */
+p#unit-name{
+    color: rgb(100, 149, 237); font-size: 30px; margin-top: 40px
+}
+
+p#unit-coordinator{
+    color: rgb(100, 149, 237); font-size: 15px
+}
+
+p#lecturer{
+    color: rgb(100, 149, 237); font-size: 15px
+}
+
+p#availableSem{
+    color: rgb(100, 149, 237); font-size: 15px
+}
+
+p#availableCampus{
+    color: rgb(100, 149, 237); font-size: 15px
+}
+
+p#description{
+    margin-top: 10px
+}
+
+/* choose button setting */
+button.btn{
+    margin-left: 100px; margin-top: 20px
+}

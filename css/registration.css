@@ -1,0 +1,38 @@
+/* reg form setting */
+form#reg-form label.error {
+  color: red;
+  font-style: italic;
+}
+form#reg-form input.error,
+input.error:focus {
+  border-color: red;
+}
+.form-hidden {
+  display: none;
+}
+#user-role {
+  display: flex;
+}
+.user-role-margin {
+  margin: auto;
+}
+#error {
+  color: red;
+}
+
+/* navigation bar setting */
+nav.navbar-expand-lg{
+  background:#020303;
+}
+
+img#logo{
+  width:60px;height:30px
+}
+
+a.nav-font-white{
+  color:rgb(255, 254, 254)
+}
+
+label.user-role-margin{
+  width: 50%;
+}

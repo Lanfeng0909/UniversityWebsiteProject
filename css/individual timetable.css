@@ -1,0 +1,29 @@
+/* navigation bar color */
+nav.navbar-expand-lg{
+  background:#020303;
+}
+/* add uni logo */
+img#logo{
+  width:60px;height:30px
+}
+/* navigation bar title color */
+a.nav-font-white{
+  color:rgb(255, 254, 254)
+}
+/* login/logout button */
+a#login{
+  display: none
+}
+button#logout{
+  display: none
+}
+/* Mytimetable color */
+p#head-font-color{
+  color: rgb(100, 149, 237); font-size: 30px
+}
+/* swap and edit button located at right bottom */
+a.btn{
+  float: right;
+  margin-bottom: 24px;
+  margin-right:40px
+}

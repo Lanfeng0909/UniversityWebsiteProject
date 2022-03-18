@@ -1,0 +1,26 @@
+.log-in-usr{
+margin-top: 20px;
+}
+
+/* navigation bar color */
+nav.navbar-expand-lg{
+  background:#020303;
+}
+/* add uni logo */
+img#logo{
+  width:60px;height:30px
+}
+/* navigation bar title color */
+a.nav-font-white{
+  color:rgb(255, 254, 254)
+}
+/* login/logout button */
+/*
+
+a#login{
+  display: none
+}
+button#logout{
+  display: none
+}
+*/

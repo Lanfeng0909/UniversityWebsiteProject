@@ -1,0 +1,27 @@
+/* navigation bar color */
+nav.navbar-expand-lg{
+    background:#020303;
+}
+  /* add uni logo */
+img#logo{
+    width:60px;height:30px
+}
+  /* navigation bar title color */
+a.nav-font-white{
+    color:rgb(255, 254, 254)
+}
+  /* login/logout button */
+a#login{
+    display: none
+}
+button#logout{
+    display: none
+}
+/* Master list font */
+p#unit-name{
+    color: rgb(100, 149, 237); font-size: 30px
+}
+
+button.btn{
+    margin-bottom: 12px
+}
